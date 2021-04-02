@@ -24,6 +24,7 @@ get_header();
 				?>
 				<header>
 					<h1 class="page-title screen-reader-text"><?php single_post_title(); ?></h1>
+					<p>Hola humano</p>
 				</header>
 				<?php
 			endif;
