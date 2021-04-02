@@ -31,7 +31,7 @@
 			the_custom_logo();
 			if ( is_front_page() && is_home() ) :
 				?>
-				<h1 class="site-title"><a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home"><?php bloginfo( 'name' ); ?></a></h1>
+				<h1 class="site-title">Salto del Ciervo</h1>
 				<?php
 			else :
 				?>
@@ -45,6 +45,7 @@
 			<?php endif; ?>
 
 			<p>TEST DANI</p>
+			<h2>HEEELLOOOOO</h2>
 		</div><!-- .site-branding -->
 
 		<nav id="site-navigation" class="main-navigation">
