@@ -43,6 +43,8 @@
 				?>
 				<p class="site-description"><?php echo $salto_del_ciervo_description; // phpcs:ignore WordPress.Security.EscapeOutput.OutputNotEscaped ?></p>
 			<?php endif; ?>
+
+			<p>TEST DANI</p>
 		</div><!-- .site-branding -->
 
 		<nav id="site-navigation" class="main-navigation">
